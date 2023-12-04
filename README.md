@@ -1,6 +1,6 @@
 - 👋 Whats up everybody, I’m @PBSDJS
 - 👀 I have no clue of what area i'm interested right now, because i just started with coding and this whole thing is very new to me, so i hope to understand better about all of this, feel free to leave some tips and advices.
-- 🌱 I’m currently learning html css
+- 🌱 I’m currently learning HTML / CSS / JavaScript
 - 💞️ Right now i'm just looking for help, advices and learning with other people examples.
 - 📫 Reach me at pablosantiagodjs@gmail.com
 
